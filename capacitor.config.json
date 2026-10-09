@@ -1,0 +1,12 @@
+{
+  "appId": "com.mgmcoet.studentportal",
+  "appName": "MGM Portal",
+  "webDir": "www",
+  "backgroundColor": "#EEF3FD",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
